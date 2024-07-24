@@ -1,8 +1,12 @@
-This is a portfolio application for showing your skills on your website .
-using only html,css
-you also use and show your skills on your website.
-i am deploy this website on netlify for free hosting.
-you also use my code for creating your portfolio working webapplication.
+
+# My Portfolio website
+
+This is my portfolio website, showcasing all of my works and projects. Here, you can explore my past achievements, learn about my current and upcoming projects, and find everything you need to know about me.
+
+## Tech Stack
+
+**Client:** Html and CSS
+
 
 https://sourav-portfoliocheck.netlify.app/   click this link for preview this website.
 
